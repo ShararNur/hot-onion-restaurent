@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "image": "/Breakfast/breakfast1.png",
+        "food_title": "Bagel and cream cheese",
+        "category": "breakfast",
+        "price": 6.99,
+        "short_description": "accumsan tellus nisi eu orci mauris",
+        "detail_description": "Qucfxisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo."
+    },
+    {
+        "id": 2,
+        "image": "/Breakfast/breakfast2.png",
+        "food_title": "Breakfast sandwich",
+        "category": "breakfast",
+        "price": 9.99,
+        "short_description": "integer ac neque duis bibendum morbi",
+        "detail_description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+    },
+    {
+        "id": 3,
+        "image": "/Breakfast/breakfast3.png",
+        "food_title": "Baked Chiken",
+        "category": "breakfast",
+        "price": 10.99,
+        "short_description": "leo pellentesque ultrices mattis odio donec",
+        "detail_description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+    },
+    {
+        "id": 4,
+        "image": "/Breakfast/breakfast4.png",
+        "food_title": "Eggs Benedict",
+        "category": "breakfast",
+        "price": 8.99,
+        "short_description": "congue risus semper porta volutpat quam",
+        "detail_description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+    },
+    {
+        "id": 5,
+        "image": "/Breakfast/breakfast5.png",
+        "food_title": "Toast Croissant Fried egg",
+        "category": "breakfast",
+        "price": 19.99,
+        "short_description": "vestibulum ante ipsum primis in faucibus",
+        "detail_description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+        "id": 6,
+        "image": "/Breakfast/breakfast6.png",
+        "food_title": "Full Breakfast Egg Toast Brunch",
+        "category": "breakfast",
+        "price": 3.99,
+        "short_description": "pellentesque eget nunc donec quis orci",
+        "detail_description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+    },
+    {
+        "id": 7,
+        "image": "/lunch/lunch1.png",
+        "food_title": "Healthy Meal Plan",
+        "category": "lunch",
+        "price": 23.99,
+        "short_description": "non mattis pulvinar nulla pede ullamcorper",
+        "detail_description": "In congue. Etiam justo. Etiam pretium iaculis justo."
+    },
+    {
+        "id": 8,
+        "image": "/lunch/lunch2.png",
+        "food_title": "Fried Chicken Bento",
+        "category": "lunch",
+        "price": 9.99,
+        "short_description": "eros viverra eget congue eget semper",
+        "detail_description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+    },
+    {
+        "id": 9,
+        "image": "/lunch/lunch3.png",
+        "food_title": "Tarragon-Rubbed-Salmon",
+        "category": "lunch",
+        "price": 6.99,
+        "short_description": "cras pellentesque volutpat dui maecenas tristique",
+        "detail_description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+    },
+    {
+        "id": 10,
+        "image": "/lunch/lunch4.png",
+        "food_title": "Indian Lunch",
+        "category": "lunch",
+        "price": 8.99,
+        "short_description": "vestibulum velit id pretium iaculis diam",
+        "detail_description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+    },
+    {
+        "id": 11,
+        "image": "/lunch/lunch5.png",
+        "food_title": "Breef Steak",
+        "category": "lunch",
+        "price": 15.99,
+        "short_description": "varius ut blandit non interdum in",
+        "detail_description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+    },
+    {
+        "id": 12,
+        "image": "/lunch/lunch6.png",
+        "food_title": "Honey-Soy-Glazed Salmon with Peppers",
+        "category": "lunch",
+        "price": 7.99,
+        "short_description": "ipsum praesent blandit lacinia erat vestibulum",
+        "detail_description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+    },
+    {
+        "id": 13,
+        "image": "/Dinner/dinner1.png",
+        "food_title": "Salmon with Grapefruit and Lentil Salad",
+        "category": "dinner",
+        "price": 9.99,
+        "short_description": "in hac habitasse platea dictumst etiam",
+        "detail_description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+    },
+    {
+        "id": 14,
+        "image": "/Dinner/dinner2.png",
+        "food_title": "Lemony Salmomn Piccata",
+        "category": "dinner",
+        "price": 10.99,
+        "short_description": "eget eros elementum pellentesque quisque porta",
+        "detail_description": "In congue. Etiam justo. Etiam pretium iaculis justo."
+    },
+    {
+        "id": 15,
+        "image": "/Dinner/dinner3.png",
+        "food_title": "Pork Tenderloin With Quinoa Pilaf",
+        "category": "dinner",
+        "price": 12.99,
+        "short_description": "lorem ipsum dolor sit amet consectetuer",
+        "detail_description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui."
+    },
+    {
+        "id": 16,
+        "image": "/Dinner/dinner4.png",
+        "food_title": "French fries with cheese",
+        "category": "dinner",
+        "price": 8.99,
+        "short_description": "ligula nec sem duis aliquam convallis",
+        "detail_description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+    },
+    {
+        "id": 17,
+        "image": "/Dinner/dinner5.png",
+        "food_title": "Garlic Butter Baked Salmon",
+        "category": "dinner",
+        "price": 6.99,
+        "short_description": "neque aenean auctor gravida sem praesent",
+        "detail_description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+    },
+    {
+        "id": 18,
+        "image": "/Dinner/dinner6.png",
+        "food_title": "Baked Chicken",
+        "category": "dinner",
+        "price": 9.99,
+        "short_description": "semper rutrum nulla nunc purus phasellus",
+        "detail_description": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+    }
+]

@@ -1,0 +1,31 @@
+.delivery-details {
+  width: 70%;
+  /* border-right: 1px solid black; */
+  margin-top: 90px;
+}
+.order-cart {
+  width: 30%;
+  margin-top: 90px;
+}
+
+.form-checkout {
+  width: 100%;
+  max-width: 500px;
+  padding: 15px;
+}
+
+/* .form-checkout input,
+.form-checkout textarea {
+  background-color: lightgrey;
+} */
+
+.hr-wd {
+  max-width: 490px;
+}
+
+.ordered-item {
+  /* background-color: lightgrey; */
+  max-width: 80%;
+  border-radius: 15px;
+  background-color: lightgrey;
+}
