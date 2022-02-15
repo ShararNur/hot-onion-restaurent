@@ -5,7 +5,7 @@ A restaurant app where you can order your favourite food from the menu. You have
 
 ### Features
 - Order food from the menu
-- Sign Up to place order
+- Sign Up to place an order
 
 ### Technology
 - React
