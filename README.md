@@ -1,7 +1,7 @@
 # Red Onion (restaurants website)
 # [LIVE](https://nifty-jang-a8e666.netlify.app/)
 
-A restaurant app where you can order your favorite food from the menu. You have options for breakfast, lunch, and dinner. Pay online and enjoy the most delicious dummy food.
+A restaurant app where you can order your favourite food from the menu. You have options for breakfast, lunch, and dinner. Pay online and enjoy the most delicious dummy food.
 
 ### Features
 - Order food from the menu
