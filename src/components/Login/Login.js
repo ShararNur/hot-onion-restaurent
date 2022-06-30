@@ -27,7 +27,6 @@ const Login = () => {
 
     useEffect(() => {
         let authToken = sessionStorage.getItem('Auth Token')
-        console.log(authToken);
 
         if (authToken) {
             navigate('/placeOrder')

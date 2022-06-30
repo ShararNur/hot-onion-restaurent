@@ -23,14 +23,14 @@ const Header = () => {
             <Navbar>
                 <Container>
                     <Navbar.Brand href="#home"><img src={logo}
-                        height="35"
+                        height="39"
                         className="d-inline-block align-top"
                         alt="Red Onion logo" />
                     </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end">
                         <Navbar.Text>
-                            <FontAwesomeIcon icon={faShoppingCart} className="me-4" />
+                            <Link to="/cart" className="me-4"><FontAwesomeIcon icon={faShoppingCart} /></Link>
                             {/* Convert them to React Router LINK tag  */}
                             <Link to="/login" className="me-4" style={{ textDecoration: 'none' }} onClick={setNewUser(false)}>Login</Link>
                             <Button variant="danger rounded-pill px-3" onClick={handleSignUp}>Sign up</Button>

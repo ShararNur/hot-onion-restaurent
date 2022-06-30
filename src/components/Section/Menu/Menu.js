@@ -39,7 +39,7 @@ const Menu = () => {
                 {totalItems >= 1 ? <button type="button" className="btn btn-lg btn-danger" onClick={() => handleCheckout()}> Checkout Your Food</button>
                     : <button type="button" className="btn btn-lg btn-danger disabled">Checkout Your Food</button>}
             </div>
-        </div >
+        </div>
     );
 };
 

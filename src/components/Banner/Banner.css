@@ -27,7 +27,7 @@
 
 .hero {
   position: relative;
-  width: 100vw;
+  /* width: 100vw; */
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -44,7 +44,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  /* filter: brightness(60%); */
 }
 .hero-content {
   position: relative;
