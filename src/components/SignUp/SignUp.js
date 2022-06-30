@@ -63,7 +63,7 @@ const SignUp = () => {
     return (
         <div className="login-panel" >
             <ToastContainer />
-            <main className="form-signIn text-center">
+            <main className="form-signin text-center">
                 <img className="mb-5 me-3" src={logo} alt="" height="57" />
 
                 {newUser && <div className="form-floating mb-3">

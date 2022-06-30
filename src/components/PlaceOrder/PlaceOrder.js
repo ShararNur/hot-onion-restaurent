@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import './PlaceOrder.css';
-import img from '../../resources/lunch/lunch1.png'
+import img from '../../resources/lunch/lunch2.jpg'
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 

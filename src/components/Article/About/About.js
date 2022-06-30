@@ -1,7 +1,7 @@
 import React from 'react';
-import img1 from '../../../resources/Image/adult-blur-blurred-background-687824.png';
-import img2 from '../../../resources/Image/chef-cook-food-33614.png';
-import img3 from '../../../resources/Image/architecture-building-city-2047397.png'
+import img1 from '../../../resources/Image/adult-blur-blurred-background-687824.jpg';
+import img2 from '../../../resources/Image/chef-cook-food-33614.jpg';
+import img3 from '../../../resources/Image/architecture-building-city-2047397.jpg'
 import './About.css';
 import icon1 from '../../../resources/ICON/Group 204.png'
 import icon2 from '../../../resources/ICON/Group 245.png'

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import map from '../../resources/Image/map.png'
+import map from '../../resources/Image/map.jpg'
 import './OrderComplete.css';
 import img1 from '../../resources/Image/Group 1151.png'
 import img2 from '../../resources/Image/Group 1152.png'

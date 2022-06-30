@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "/Breakfast/breakfast1.png",
+        "image": "/Breakfast/breakfast1.jpg",
         "food_title": "Bagel and cream cheese",
         "category": "breakfast",
         "price": 6.99,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "/Breakfast/breakfast2.png",
+        "image": "/Breakfast/breakfast2.jpg",
         "food_title": "Breakfast sandwich",
         "category": "breakfast",
         "price": 9.99,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "/Breakfast/breakfast3.png",
+        "image": "/Breakfast/breakfast3.jpg",
         "food_title": "Baked Chiken",
         "category": "breakfast",
         "price": 10.99,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "image": "/Breakfast/breakfast4.png",
+        "image": "/Breakfast/breakfast4.jpg",
         "food_title": "Eggs Benedict",
         "category": "breakfast",
         "price": 8.99,
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "image": "/Breakfast/breakfast5.png",
+        "image": "/Breakfast/breakfast5.jpg",
         "food_title": "Toast Croissant Fried egg",
         "category": "breakfast",
         "price": 19.99,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "image": "/Breakfast/breakfast6.png",
+        "image": "/Breakfast/breakfast6.jpg",
         "food_title": "Full Breakfast Egg Toast Brunch",
         "category": "breakfast",
         "price": 3.99,
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "image": "/lunch/lunch1.png",
+        "image": "/lunch/lunch1.jpg",
         "food_title": "Healthy Meal Plan",
         "category": "lunch",
         "price": 23.99,
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "image": "/lunch/lunch2.png",
+        "image": "/lunch/lunch2.jpg",
         "food_title": "Fried Chicken Bento",
         "category": "lunch",
         "price": 9.99,
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "image": "/lunch/lunch3.png",
+        "image": "/lunch/lunch3.jpg",
         "food_title": "Tarragon-Rubbed-Salmon",
         "category": "lunch",
         "price": 6.99,
@@ -82,7 +82,7 @@
     },
     {
         "id": 10,
-        "image": "/lunch/lunch4.png",
+        "image": "/lunch/lunch4.jpg",
         "food_title": "Indian Lunch",
         "category": "lunch",
         "price": 8.99,
@@ -91,7 +91,7 @@
     },
     {
         "id": 11,
-        "image": "/lunch/lunch5.png",
+        "image": "/lunch/lunch5.jpg",
         "food_title": "Breef Steak",
         "category": "lunch",
         "price": 15.99,
@@ -100,7 +100,7 @@
     },
     {
         "id": 12,
-        "image": "/lunch/lunch6.png",
+        "image": "/lunch/lunch6.jpg",
         "food_title": "Honey-Soy-Glazed Salmon with Peppers",
         "category": "lunch",
         "price": 7.99,
@@ -109,7 +109,7 @@
     },
     {
         "id": 13,
-        "image": "/Dinner/dinner1.png",
+        "image": "/Dinner/dinner1.jpg",
         "food_title": "Salmon with Grapefruit and Lentil Salad",
         "category": "dinner",
         "price": 9.99,
@@ -118,7 +118,7 @@
     },
     {
         "id": 14,
-        "image": "/Dinner/dinner2.png",
+        "image": "/Dinner/dinner2.jpg",
         "food_title": "Lemony Salmomn Piccata",
         "category": "dinner",
         "price": 10.99,
@@ -127,7 +127,7 @@
     },
     {
         "id": 15,
-        "image": "/Dinner/dinner3.png",
+        "image": "/Dinner/dinner3.jpg",
         "food_title": "Pork Tenderloin With Quinoa Pilaf",
         "category": "dinner",
         "price": 12.99,
@@ -136,7 +136,7 @@
     },
     {
         "id": 16,
-        "image": "/Dinner/dinner4.png",
+        "image": "/Dinner/dinner4.jpg",
         "food_title": "French fries with cheese",
         "category": "dinner",
         "price": 8.99,
@@ -145,7 +145,7 @@
     },
     {
         "id": 17,
-        "image": "/Dinner/dinner5.png",
+        "image": "/Dinner/dinner5.jpg",
         "food_title": "Garlic Butter Baked Salmon",
         "category": "dinner",
         "price": 6.99,
@@ -154,7 +154,7 @@
     },
     {
         "id": 18,
-        "image": "/Dinner/dinner6.png",
+        "image": "/Dinner/dinner6.jpg",
         "food_title": "Baked Chicken",
         "category": "dinner",
         "price": 9.99,
