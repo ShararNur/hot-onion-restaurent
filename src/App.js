@@ -3,7 +3,6 @@ import { Routes, Route } from "react-router-dom";
 import Home from './components/Home/Home';
 import MenuItem from './components/MenuItem/MenuItem';
 import Login from './components/Login/Login';
-import SignUp from './components/SignUp/SignUp';
 import PlaceOrder from './components/PlaceOrder/PlaceOrder';
 import OrderComplete from './components/OrderComplete/OrderComplete';
 import { CartProvider } from "react-use-cart";

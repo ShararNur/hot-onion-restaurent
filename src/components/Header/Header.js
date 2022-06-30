@@ -4,7 +4,7 @@ import logo from '../../resources/logo2.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import { Link, useNavigate } from 'react-router-dom';
-import { CurrentUserContext, NewUserContext } from '../../App';
+import { NewUserContext } from '../../App';
 
 const Header = () => {
 

@@ -2,8 +2,6 @@ import React from 'react';
 import './Banner.css'
 import '@fontsource/roboto/';
 import Typography from '@mui/material/Typography';
-import bannerimg from '../../resources/bannerbackground.png'
-import img from '../../resources/croppedbannerimg.png'
 
 
 const Banner = () => {

@@ -23,32 +23,29 @@
   filter: brightness(1.11);
 }
 
-.form-signin {
+.form-signIn {
   width: 100%;
   max-width: 330px;
   padding: 15px;
   margin: auto;
 }
 
-/* .form-signin .checkbox {
-  font-weight: 400;
-} */
 
-.form-signin .form-floating:focus-within {
+.form-signIn .form-floating:focus-within {
   z-index: 2;
 }
 
-.form-signin input {
+.form-signIn input {
   background-color: lightgrey;
 }
 
-.form-signin input[type='email'] {
+.form-signIn input[type='email'] {
   margin-bottom: -1px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 
-.form-signin input[type='password'] {
+.form-signIn input[type='password'] {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;

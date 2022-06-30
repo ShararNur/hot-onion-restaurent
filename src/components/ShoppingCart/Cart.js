@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useCart } from 'react-use-cart';
 
 const Cart = () => {
@@ -24,7 +24,7 @@ const Cart = () => {
                                 return (
                                     <tr key={index}>
                                         <td>
-                                            <img src={item.image} style={{ height: '6rem' }} />
+                                            <img src={item.image} style={{ height: '6rem' }} alt="" />
                                         </td>
                                         <td>{item.food_title}</td>
                                         <td>$ {item.price}</td>
@@ -62,9 +62,6 @@ const Cart = () => {
                 </div>
             </div>
         </section>
-        // < section className="py-4 container" >
-
-        // </ >
     );
 };
 

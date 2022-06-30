@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './CardUI.css';
 const CardUI = (props) => {
-    // console.log(props)
     const { id, image, food_title, short_description, price, category } = props.foodItem;
 
 

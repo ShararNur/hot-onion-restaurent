@@ -2,22 +2,15 @@ import React, { useContext, useEffect, useState } from 'react';
 import './Login.css'
 import { Link, useNavigate } from 'react-router-dom';
 import logo from '../../resources/logo2.png';
-import { createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged, signOut, getAuth, updateProfile } from "firebase/auth";
-import { auth } from '../../firebase.config'
+import { createUserWithEmailAndPassword, signInWithEmailAndPassword, getAuth, updateProfile } from "firebase/auth";
 import { CurrentUserContext, NewUserContext } from '../../App';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-// import { initializeApp } from "firebase/app";
-// // import firebaseConfig from './firebase.config';
-// import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
 
-
-// const app = initializeApp(firebaseConfig);
 
 const Login = () => {
 
     //! Another approach for authentication
-    // const [newUser, setNewUser] = useState(true);
     const [newUser, setNewUser] = useContext(NewUserContext);
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
@@ -106,7 +99,6 @@ const Login = () => {
         <div className="login-panel" >
             <ToastContainer />
             <main className="form-signin text-center">
-                {/* <h4>email: {email}</h4> */}
                 <img className="mb-5 me-3" src={logo} alt="" height="57" />
 
                 {newUser && <div className="form-floating mb-3">
@@ -132,8 +124,6 @@ const Login = () => {
                 {newUser ? <button className="w-100 btn btn-lg btn-danger button" onClick={() => handleAction(2)}>Sign up</button>
                     : <button className="w-100 btn btn-lg btn-danger button" onClick={() => handleAction(1)}>Log in</button>}
 
-                {/* {loggedInUser?.email ? <button className="w-100 btn btn-lg btn-danger" onClick={logout}>Sign Out</button>
-                        : <button className="w-100 btn btn-lg btn-danger" >Sign up</button>} */}
                 {newUser ? <p className="mt-5 mb-3 text-danger">Have an account? <Link to="/login" style={{ textDecoration: 'none' }} onClick={() => setNewUser(false)}>Log in</Link></p>
                     : <p className="mt-5 mb-3 text-danger">Don't have an account? <Link to="/signUp" style={{ textDecoration: 'none' }} onClick={() => setNewUser(true)}>Sign up</Link> </p>}
             </main>

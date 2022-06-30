@@ -1,13 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 import './MenuItem.css';
 import data from '../../data/fake_data.json';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShoppingCart, faChevronRight, faPlus, faMinus } from '@fortawesome/free-solid-svg-icons';
+import { faShoppingCart, faChevronRight } from '@fortawesome/free-solid-svg-icons';
 import { useCart } from 'react-use-cart'
 
 
-// import image1 from '../../resources/lunch/lunch1.png'
 
 
 const MenuItem = () => {
@@ -15,25 +14,6 @@ const MenuItem = () => {
     const { id } = useParams();
     const foodItem = data.find(food => food.id === parseInt(id))
     const { image, food_title, price, detail_description } = foodItem;
-
-
-    // useEffect(() => {
-
-    //     const savedCart = getStoredCart();
-
-    //     const productId = Object.keys(savedCart);
-
-    //     let quantity = Object.values(savedCart);
-    //     quantity = foodItem.quantity;
-
-    //     const cartProducts = productId.map(id => {
-    //         const foodItem = data.find(pd => (pd.id).toString() === id.toString());
-    //         foodItem.quantity = savedCart[id];
-    //         return foodItem;
-    //     });
-    //     // setCart(cartProducts);
-    //     console.log(quantity);
-    // }, []);
 
     let a = 1;
     const handlePlusEvent = () => {
@@ -54,33 +34,6 @@ const MenuItem = () => {
             foodItem.quantity = parseFloat(a);
         }
     }
-
-
-    // const addItem = (foodItem, quantity) => {
-
-    //     const toBeAddedId = foodItem.id;
-    //     const sameItem = cart.find(item => item.id === toBeAddedId);
-
-    //     let newCart;
-    //     let count = 1;
-
-    //     if (sameItem) {
-    //         // count = sameItem.quantity + 1;
-    //         // sameItem.quantity = count;
-    //         sameItem.quantity = quantity;
-    //         const others = cart.filter(item => item.id !== toBeAddedId)
-    //         newCart = [...others, sameItem];
-    //     }
-
-    //     else {
-    //         // foodItem.quantity = 1;
-    //         newCart = [...cart, foodItem];
-    //     }
-    //     setCart(newCart);
-    //     addToDb(foodItem.id);
-    // }
-
-
 
 
     return (
